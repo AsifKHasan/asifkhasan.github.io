@@ -13,7 +13,7 @@ pre {
 </style>
 
 ```Tue Jan 07, 2025```
-# T. S. Eliot - The Journey of the Magi
+# তীর্থযাত্রা (T. S. Eliot - The Journey of the Magi)
 
 <div style="text-align: left; width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
   <div>

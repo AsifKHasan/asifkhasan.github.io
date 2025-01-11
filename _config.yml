@@ -21,8 +21,8 @@
 title: Asif Hasan
 email: asif.hasan@gmail.com
 description: | # this means to ignore newlines until "baseurl:"
-  বেচে থাকা, এই ভালো আছি নিশিদিন
-  আরো ভালো, যৌবন যদি পাই অন্তহীন
+  বেচে থাকা, এই ভালো আছি নিশিদিন - 
+  আরো ভালো, যৌবন যদি পাই অন্তহীন - 
   সবচেয়ে ভালো এই প্রেমে ডোবা, তোমাতে বিলীন।
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://asifkhasan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
