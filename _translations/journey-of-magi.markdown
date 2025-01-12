@@ -3,7 +3,7 @@ layout: page
 # title: The Journey of the Magi
 title: ''
 permalink: /translations/journey-of-magi
-date: 2025-01-11
+date: 2011-02-28
 ---
 
 <style>
@@ -13,7 +13,10 @@ pre {
 </style>
 
 ```Tue Jan 07, 2025```
-# তীর্থযাত্রা (T. S. Eliot - The Journey of the Magi)
+# তীর্থযাত্রা
+<div style="text-align: left; width: 100%; display: grid;">
+  The Journey of the Magi, T. S. Eliot
+<div>
 
 <div style="text-align: left; width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
   <div>
