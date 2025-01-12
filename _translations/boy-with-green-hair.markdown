@@ -3,7 +3,7 @@ layout: page
 # title: The Boy with Green Hair
 title: ''
 permalink: /translations/boy-with-green-hair
-date: 2011-03-09
+date: 2011-03-05
 ---
 
 <style>
@@ -12,7 +12,7 @@ pre {
 }
 </style>
 
-```Tue Jan 12, 2025```
+```Mar 05, 2011```
 # ছেড়া জিন্স পরা ছেলেটা
 <div style="text-align: left; width: 100%; display: grid;">
   The Boy with Green Hair, Fakrul Islam Chowdhury
