@@ -11,3 +11,7 @@ Translations to Bangla (বাংলা) from others.
 [তীর্থযাত্রা (T. S. Eliot - The Journey of the Magi)](/translations/journey-of-magi)
 
 [নিশি-মিলন (Robert Browning - Meeting at Night)](/translations/meeting-at-night)
+
+[প্রত্ন-ঈশ্বর (আংশিক অনুবাদ) (T. S. Eliot - The Rock)](/translations/the-rock)
+
+[ছেড়া জিন্স পরা ছেলেটা (Fakrul Islam Chowdhury - The Boy with Green Hair)](/translations/boy-with-green-hair)
