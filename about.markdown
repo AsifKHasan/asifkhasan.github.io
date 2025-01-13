@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+pre {
+  font-family: Roboto,Calibri,Arial,Helvetica,"Noto Serif Bengali",sans-serif; background-color:transparent; border-style="none";
+}
+</style>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<pre>
+বেচে থাকা, এই ভালো আছি নিশিদিন
+  আরো ভালো, যৌবন যদি পাই অন্তহীন
+    সবচেয়ে ভালো এই প্রেমে ডোবা, তোমাতে বিলীন।
+</pre>
