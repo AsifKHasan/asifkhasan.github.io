@@ -7,9 +7,13 @@ date: 2011-03-05
 ---
 
 <style>
-pre {
-  font-family: Roboto,Calibri,Arial,Helvetica,"Noto Serif Bengali",sans-serif; background-color:transparent;
-}
+  h1, body {
+    font-family: Roboto,Calibri,Arial,Helvetica,"Noto Serif Bengali",sans-serif;
+  }
+
+  pre {
+    font-family: Roboto,Calibri,Arial,Helvetica,"Noto Serif Bengali",sans-serif; background-color:transparent;
+  }
 </style>
 
 ```Mar 05, 2011```

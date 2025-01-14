@@ -7,7 +7,7 @@ date: 2025-01-07
 ---
 
 <style>
-body1 {
+body {
   font-family: Roboto,Calibri,Arial,Helvetica,"Noto Serif Bengali",sans-serif;
 }
 </style>

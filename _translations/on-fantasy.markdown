@@ -14,7 +14,7 @@ body {
 
 ```Tue Jan 07, 2025```
 
-> কল্পকাহিনী নিয়ে George R. R. Martin - [*On Fantasy*](https://georgerrmartin.com/about-george/on-writing-essays/on-fantasy-by-george-r-r-martin/).
+> কল্পকাহিনী নিয়ে - George R. R. Martin - [*On Fantasy*](https://georgerrmartin.com/about-george/on-writing-essays/on-fantasy-by-george-r-r-martin/).
 
 # স্বপ্ন-কল্প
 শ্রেষ্ঠ কাহিনী লেখা হয় স্বপ্নের ভাষায়। সে কাহিনী স্বপ্নসম জীবন্ত। স্বপ্ন ভেঙ্গে জেগে ওঠার সেই যাদু-মূহুর্ত পর্যন্ত - ক্ষণিকের জন্য হলেও - সে কাহিনী বাস্তবের চেয়েও সত্যিকারের।
