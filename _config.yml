@@ -42,6 +42,7 @@ include:
   - _translations
   - _verses
   - _notes
+  - _quotes
 
 # Exclude from processing.
 # The following items will not be processed, by default.
