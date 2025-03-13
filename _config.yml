@@ -43,6 +43,7 @@ include:
   - _verses
   - _notes
   - _quotes
+  - _society
 
 # Exclude from processing.
 # The following items will not be processed, by default.
