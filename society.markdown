@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Society & Politics
+title: সমাজ ও রাজনীতি
 permalink: /society/
 # [](/society/)
 ---
 
-# On Society and Politics
+[মাঠে-ঘাটের রাজনীতি](/society/politics-and-career-professionals)
 
 
