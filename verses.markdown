@@ -9,6 +9,6 @@ permalink: /verses/
 
 [স্বৈরাচারের কাল](/verses/in-the-time-of-autocrat)
 
-[চার লাইনে বিরহ](/verses/four-lines-of-estrangement)
+[কয়েক লাইনে বিরহ](/verses/few-lines-of-estrangement)
 
 [সময়ের সাক্ষ্য](/verses/testimony-of-time)
