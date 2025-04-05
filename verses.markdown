@@ -1,6 +1,6 @@
 ---
 layout: page
-title: কবিতা কল্পনালতা
+title: কবিতা
 permalink: /verses/
 # [](/verses/)
 ---
